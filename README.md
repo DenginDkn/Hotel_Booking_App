@@ -80,6 +80,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 3. Make your changes.
 4. Submit a pull request.
 
-## License
+## Project Explanation Video
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The content of this project, including the code and documentation, is also available on YouTube. Watch the accompanying video: [Project Overview on YouTube](https://www.youtube.com/watch?v=_nbMkxICJjc).

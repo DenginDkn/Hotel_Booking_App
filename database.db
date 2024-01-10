@@ -1,0 +1,8 @@
+CREATE TABLE "user" (
+	"email"	TEXT,
+	"password"	TEXT,
+	"name"	TEXT,
+	"surname"	TEXT,
+	"country"	TEXT,
+	"city"	TEXT
+)

@@ -1,0 +1,119 @@
+/* app/static/css/styles.css */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hotel-icon{
+    vertical-align: middle;
+    border-style: none;
+    width: 250px;
+    margin-top: 50px;
+}
+
+.form-group{
+    margin-bottom: 0px !important;
+    font-size: 30px;
+    
+}
+
+.border-line {
+    border-left: 2px solid #e4e4e4;
+    padding-left: 10px;
+}
+.mt-40 {
+    margin-top: 40px;
+    border-radius: 15px;
+}
+
+.btn-custom {
+    color: #ff0000;
+    margin-top: 0px !important;
+    font-size: x-large;
+}
+.btn-custom:hover {
+    color: black;
+}
+
+.btn-custom2 {
+    background-color: #ffffff;
+    color: #0056b3;
+    margin-top: 0px !important;
+    border-radius: 20px;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: 1px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.btn-custom2:hover {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+.col-md-4{
+    p{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+}
+
+.original-price {
+    text-decoration: line-through;
+}
+
+.sale-section{
+    background-color:rgb(216, 57, 79); 
+    color: white;
+    border-radius: 5px;
+}
+
+.sale-section p{
+    display: flex;
+    align-items: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2px;
+}
+
+.member-section {
+    background-color: purple; 
+    border-radius: 5px;
+    margin-bottom: 10px; /* Adjust the margin-bottom value as needed */
+}
+
+.member-section p {
+    display: flex;
+    align-items: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2px;
+}
+
+.member-section img {
+    width: 20px; 
+    margin-right: 10px;
+}
+
+
+.where{
+    font-size: x-large;
+    font-weight: bold;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    }
+
+.form-group.col-md-4.d-flex.align-items-end {
+    justify-content: space-between;
+}
+
+.btn-primary.ml-2 {
+    border-radius: 20px;
+}
+
+.fa-percent:before, .fa-percentage:before {
+    content: "\25";
+    margin-left: 10px;
+    margin-right: 10px;
+}

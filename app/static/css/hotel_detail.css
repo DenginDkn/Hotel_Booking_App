@@ -1,0 +1,40 @@
+/* hotel_detail.css */
+
+body {
+    padding: 20px; /* Add padding to the body for better spacing */
+}
+
+h1 {
+    margin-bottom: 20px; /* Add margin to separate the heading from other elements */
+}
+
+.explanation,
+.price,
+.rating {
+    margin-bottom: 10px; /* Add margin to separate each information section */
+}
+
+.rating {
+    color: #28a745; /* Set the color for the rating to green */
+}
+
+.amenities-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.amenity {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+
+.map-container {
+    margin-top: 20px; /* Add margin to separate the map from other elements */
+}
+
+.location_exp {
+    margin-top: 10px; /* Add margin to separate the location explanation */
+}
